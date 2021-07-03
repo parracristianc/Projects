@@ -1,2 +1,0 @@
-Hola Mundo
-Esto sigue siendo una prueba con giy, git hub y vs code
